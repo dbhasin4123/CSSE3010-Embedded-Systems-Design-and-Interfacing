@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "debug_log.h": "c",
+        "stdint.h": "c",
+        "processor_hal.h": "c",
+        "board.h": "c",
+        "s4824132_txradio.h": "c",
+        "s4824132_console.h": "c",
+        "s4824132_board_pb.h": "c",
+        "nrf24l01plus.h": "c",
+        "s4824132_rcmcont.h": "c",
+        "s4824132_hamming.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
